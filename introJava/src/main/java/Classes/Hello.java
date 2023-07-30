@@ -11,5 +11,6 @@ public class Hello {
 
         System.out.println(phone.getBrand());
         System.out.println(phone.getModel());
+        System.out.println(phone.getPrice());
     }
 }
