@@ -10,5 +10,6 @@ public class Hello {
         smartPhone phone = new smartPhone();
 
         System.out.println(phone.getBrand());
+        System.out.println(phone.getModel());
     }
 }
